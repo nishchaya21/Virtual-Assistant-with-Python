@@ -24,5 +24,5 @@ pip install pywhatkit
 <ul>
   <li>With the help of 'pywhatkit' it plays any youtube video that the user requires. </li>
   <li>At the same time it also display the current date-time & further more it also provides the meaning of certain words that the user inputs to the assistant. </li>
-  <li> Lastly, with a little sense of humor it also provides with some jokes for breaking the tension. </li.
+  <li> Lastly, with a little sense of humor it also provides with some jokes for breaking the tension. </li>
 </ul>
